@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m a student developer currently studying at PICT, with a growing interest in UI design and a strong foundation in programming. I enjoy exploring a variety of languages including C++, Python, Java, C#, and C, along with web development technologies. I’m particularly fascinated by the fields of AI and Machine Learning, and I’m always eager to learn new tools, frameworks, and design principles that help me build intuitive and impactful applications.
 
 
